@@ -3,3 +3,4 @@ Basic commands
 To create a folder/directory ------ mkdir directory_name
 To create a file ------------------ touch file_name
 To remove file --------------------rm file_name
+to list--------------ls 
